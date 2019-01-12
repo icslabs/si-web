@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar{
+  border-bottom: 1px solid #70707020; 
+  padding: 1.3rem 1rem;
+}
+
+.navbar-brand{
+  font-weight: 700;
+}

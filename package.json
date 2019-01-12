@@ -1,0 +1,15 @@
+{
+  "name": "si-web",
+  "version": "1.0.0",
+  "description": "Website Mahasiswa Sistem Informasi 2018",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "icsLabs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sequelize": "^4.42.0"
+  }
+}
